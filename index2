@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Donielle Palladino Resume</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="container">
+      <img src=https://media-exp1.licdn.com/dms/image/C5603AQHsjbO54TNZHQ/profile-displayphoto-shrink_200_200/0/1596823599561?e=1614816000&v=beta&t=m29IOEJeTQ4L_bqNMQdM0JYLMk-XQjdFLDX-Kzhcso0
+    <div id="content-contact"
+              Donielle Palladino
+            </div>
+  <div id="content-info>"
+       <p> 
+          Phone: 612-251-7482
+        <br> 
+        Address: 18964 Wynnfield Rd, Eden Prairie, MN 55347
+      </p>
+  </div>
+
+<div id = "content-body">
+  <div id="content-summary">
+    <div id="content-summarycontent">
+      Strong self-motivated, creative, lively individual iwth a passion for bridging the gap between Peopl and the Technolofy they interact with. Realtionship centric Mentality that is driven by a deep understanding that through teamwork anything is possible.
+    </div>
+  </div>
+  
+
+  <div>           
+    <h1>Donielle Palladino</h1>
+    <p>Recognized for driving adoption, efficiency, cost savings and innovation across large-scale enterprise programs
+  </div>
+  
+  <div class="exp-header">
+    <h3>Professional Experience</h3>
+  </div>
+  
+    <div>
+      <h4>C.H. Robinson</h4>
+      <h5>Senior IT Program Manager</h5>
+      <h6>2011 - Present</h6>
+      
+      <ul>
+        <li>Create, plan and execute IT Global Learning Program across 200+ locations and multiple countries </li>
+        <li>Strategize, implement, and maintain program initiatives that adhere to organizational objectives</li>
+        <li>Evaluate, implement, deploy and maintain learning software into existing infrastructure environment, identifying best practice for current and future growth state</li>
+        <li>Design, organize and facilitate training sessions for technology teams, introducing vendor software in multimodal platforms</li>
+        <li>Gathered feedback on program results, analyze feedback and incorporate successful process into other programs. Identify and determine global implications of program parameters and redefine, redesign or revise as appropriate</li>
+        <li>Create multiple campaigns to market, support and increase awareness and adoption of programs</li>
+        <li>Organize and lead teams across multiple departments and vendors to ensure service delivery objectives and requirements are successfully maintained for each program</li>
+        <li>Develop program assessment protocols for evaluation and improvement. Create process, sharing and communication of knowledge across and within teams</li>
+        <li>Develop and grow all vendor relationships, network opportunities to leverage best outcome</li>
+        <li>Provided leadership and consistently introduce innovative approaches to enhance performance, efficiency, and customer satisfaction.</li>
+      </ul>
+    </div>
+  
+    <div>
+      <h5>Mobility Program Manager (2011 to April 2019)</h5>
+      
+      <ul>
+        <li>Solely responsible for planning and management of $4.2m North America mobility program, comprising 4,000 endpoints</li>
+        <li>Primary owner of Apple VPP, DEP, MDM and EMM software deployments, and implementation of vendor contracts, monthly audit and RPA to ensure rates</li>
+        <li>Support of mobile infrastructure including MobileIron and Wandera</li>
+        <li>Create and implelemented strategic BYOD program</li>
+        <li>Develop and grow all mobile vendor relationships alongside business C level executives</li>
+        <li>Own RFP creation, distribution, evaluation and contract negotiations in line with program growth initiatives</li>
+        <li>Collaborate with cross-functional teams within Agile framework</li>
+        <li>Create, implement and maintain mobility policy to business; evaluate global processes and advise on best practice, SOP and policy</li>
+        <li>Tactical support of programs, including patching and regular maintenance, knowledge article writing for T1 and T2 support, T3 troubleshooting, problem diagnosis, problem resolution and ongoing production support, proactive monitoring and corrective actions for mobile infrastructure stability and performance</li>
+        <li>Promote continuous improvement and user experience through projects, including ServiceNow automation of repeatable tasks and research and evaluation of new and emerging solutions, preparing and presenting ROI-based business cases to executive sponsors</li>
+        <li>Act as SME for T1 and T2 support teams, handling ticket escalations as needed</li>
+        <li>Provide superior service to enterprise executives, resolving user issues and advising as to mobile solution options</li>
+      </ul>
+    </div>
+  
+    <div>
+      <h4>ALWAYBETHERE INC.</h4>
+      <h5>Account / Project Manager</h5>
+      <h6>2006 - 2010</h6>
+      
+      <ul>
+        <li>Identified and drove new revenue opportunities within new and existing accounts </li>
+        <li>Collaborated with broad project teams to organize and execute project plans, including initial discovery, implementation, and post-completion management</li>
+        <li>Maintained excellent relationships with team members and clients</li>
+        <li>Educated clients on new software, hardware and device policy</li>
+        <li>Responsible for master reporting and website development</li>
+      </ul>
+      </div>
+  
+    <div>
+      <h5>Implementation / Operations General Manager</h5>
+      
+      <ul>
+        <li>Managed a dynamic and growing team; comprised of a mix of on-site and remote, hourly and salaried employees</li>
+        <li>Developed and built the team according to company capacity and growth requirements</li>
+        <li>Effectively improved and managed an order processing flow, adhering to strict deadlines and SLAs</li>
+        <li>Continually worked to build and implement process improvements and created new processes to evolve the department and organization as a whole</li>
+        <li>Handled all Sales and AM/PM escalations, reporting successful resolution to internal and external customers</li>
+      </ul>
+    </div>
+  
+ 
+    <div>
+      <h4>NEXTEL COMMUNICATIONS INC.</h4>
+      <h5>CNS Implementation and Deployment </h5>
+      <h6>1999 - 2005</h6>
+      
+      <ul>
+        <li>Responsible for Nextel’s largest contracted customers from conversion of old communication system to new digital systems</li>
+        <li>Project managed all facets of network site build out, conversion, training of end users as well as manage local teams while onsite</li>
+        <li>Responsible for implementation and deployment of Wireless Manager, a web-based application</li>
+        <li>Primary point of contact between Nextel and the customer for daily operations during pre-sales and implementation during project</li>
+        <li>Delivered presentations to potential customer demonstrating full array of business solutions</li>
+        <li>Plan, schedule and facilitate customer training which included handset, tiered support and procedures training</li>
+        <li>Evaluated training materials; designed and developed version updates</li>    
+      </ul>
+      </div>
+  
+</body>
+</html>
